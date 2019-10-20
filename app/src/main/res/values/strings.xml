@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Love Test</string>
+    <string name="interstitial_ad_sample">Interstitial Ad Sample</string>
+    <string name="level_one">Level One</string>
+    <string name="level_two">Level Two</string>
+    <string name="ad_id_interstitial">ca-app-pub-2330332105907992/7845906264</string>
+    <string name="ad_id_banner">ca-app-pub-2330332105907992/2776578265</string>
+
+</resources>
